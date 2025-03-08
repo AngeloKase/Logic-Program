@@ -7,7 +7,7 @@ programa
 		escreva("digite um número: ")
 		leia(numero)
 		se(numero>=0){
-			es
+			escreva("O número é postivo. \n")
 		}senao{
 			escreva("O número é negativo.\n")
 		}
