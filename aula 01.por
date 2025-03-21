@@ -1,4 +1,5 @@
-/* Aula 28 de Fevereiro
+/* Aula 07 de Março 
+*/
 programa {
 	funcao inicio(){
 		logico A = fals
