@@ -21,9 +21,9 @@ else:
 
 numero = 1
 
-while numero <= 5:
+while numero <= 6:
   print(f"Número: {numero}")
   numero += 1 # incrementa a variável
 
-for i in range (1, 6):
+for i in range (1, 7):
     print (f"Número: {i}")
